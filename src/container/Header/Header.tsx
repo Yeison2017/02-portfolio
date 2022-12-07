@@ -17,7 +17,7 @@ const scaleVariants = {
 
 const Header = () => {
     return (
-        <div className="app__header app__flex">
+        <div id="home" className="app__header app__flex">
             <motion.div
                 whileInView={{ x: [-100, 0], opacity: [0, 1] }}
                 transition={{ duration: 0.5 }}
@@ -50,7 +50,7 @@ const Header = () => {
                     transition={{ duration: 1, ease: "easeInOut" }}
                     src={images.circle}
                     alt="profile_circle"
-                    className="overlay__circle"
+                    className="overlay_circle"
                 />
             </motion.div>
 
@@ -65,7 +65,7 @@ const Header = () => {
                             className="circle-cmp app__flex"
                             key={`circle-${index}`}
                         >
-                            <img src="circle" alt="circle" />
+                            <img src={circle} alt="circle" />
                         </div>
                     )
                 )}
