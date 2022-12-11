@@ -1,4 +1,4 @@
-import { NAVIGATION } from "../constants/navigations";
+import { NAVIGATION } from "../constants/appCollections";
 
 interface NavigationsDotsProps {
     active: string;

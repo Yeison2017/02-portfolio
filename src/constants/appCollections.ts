@@ -6,3 +6,5 @@ export const NAVIGATION = [
     "testimonials",
     "contact",
 ];
+
+export const WORK = ["UI/UX", "Web App", "Mobile App", "React JS", "All"];
