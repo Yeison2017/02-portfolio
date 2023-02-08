@@ -19,12 +19,16 @@ Las capturas de pantalla muestran una vista previa de la página en desktop.
 ![desktop6](./src/assets/screenshots/Desktop6.jpg)
 ![mobile1](./src/assets/screenshots/Mobile1.jpg)
 ![mobile2](./src/assets/screenshots/Mobile2.jpg)
+![mobile3](./src/assets/screenshots/Mobile3.jpg)
+![mobile4](./src/assets/screenshots/Mobile4.jpg)
+![mobile5](./src/assets/screenshots/Mobile5.jpg)
+![mobile6](./src/assets/screenshots/Mobile6.jpg)
 
 ## Créditos
 Este proyecto fue creado a partir de un video tutorial de YouTube de "JavaScript Mastery". El enlace del curso es https://www.youtube.com/watch?v=3HNyXCPDQ7Q.
 
 ## Link
-Puedes ver la página web en vivo en el siguiente enlace: [Live site URL](https://todo-app-yha.netlify.app/).
+Puedes ver la página web en vivo en el siguiente enlace: [URL del sitio](https://yeison-porftfolio.netlify.app/).
 
 ## Comparación de tecnologías y características
 El proyecto original del video tutorial utiliza JavaScript, mientras que este proyecto utiliza TypeScript.
