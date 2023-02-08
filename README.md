@@ -2,12 +2,12 @@
 Este proyecto es una página web creada con React y TypeScript que muestra un portafolio de habilidades como Desarrollador front-end, back-end, diseñador web y desarrollador móvil. Además, es responsiva y utiliza Sanity.io para su gestión de contenido. También cuenta con secciones para proyectos, testimonios y contacto. Los estilos fueron desarrollados con Framer Motion y Sass.
 
 ## Tecnologías principales
-- ![icono de React](https://i.ibb.co/TMY0DFt/React.png) React  
-- ![icono de TypeScript](https://i.ibb.co/pZWgXLL/Typescript.png) TypeScript  
-- ![icono de Vite]( https://i.ibb.co/d7bnDkX/Vite.png) Vite  
-- ![icono de Sanity.io](https://i.ibb.co/TMY0DFt/React.png) Sanity.io  
-- ![icono de Framer Motion](https://i.ibb.co/TMY0DFt/React.png) Framer Motion  
-- ![icono de Sass](https://i.ibb.co/RhsGQCH/Sass.png) Sass  
+- ![icono de React](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/React_yhyy73.png) React  
+- ![icono de TypeScript](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/Typescript_fz9cmf.png) TypeScript  
+- ![icono de Vite](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/Vite_tm7cm3.png) Vite  
+- ![icono de Sanity.io](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/Sanity_ogmpmw.png) Sanity.io  
+- ![icono de Framer Motion](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/FramerMotion_n8j0s1.png) Framer Motion  
+- ![icono de Sass](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675897058/Iconos/Sass_zhshzx.png) Sass  
 
 ## Capturas de pantalla
 Las capturas de pantalla muestran una vista previa de la página en desktop.
